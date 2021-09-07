@@ -1,0 +1,34 @@
+.login{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+
+.employer, .employees{
+	position: relative;
+}
+
+.employer ul, .employees ul{
+	position: absolute;
+	background: red;
+	width: 180px;
+	height: 180px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: column;
+	list-style: none; 
+	border-radius: 8px;
+}
+
+.employer a, .employees a{
+	color: black;
+	text-decoration: none;
+}
+.login button{
+	background: none;
+	border:none;
+
+}
+

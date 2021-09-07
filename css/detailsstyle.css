@@ -1,0 +1,15 @@
+body {
+	max-width: 600px;
+	background: #e3e3e3
+}
+ul{
+	line-height: 40px;
+	text-decoration: none;
+}
+
+img{
+	float: right;
+	width: 200px;
+	height: 250px;
+	margin-top: -330px;
+}
